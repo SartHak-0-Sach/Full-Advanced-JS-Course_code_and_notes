@@ -1,0 +1,8 @@
+In this lecture we started off by understanding absolute fundamentals of programming. Why we need to do programming and invest so much time in it? Answer: Because computer is a piece of metal before we program it and has no sense of use if not programmed because it can't comprehend what stuff we want to get done and thus we need programming.
+
+Later we discussed about JS in particular, its history comes from ECMAscript, a standard followed by javascript.
+
+Javascript has wide number of applications, the most famous being helping us make intercative, user friendly web applications.
+
+Javascript is run in console of browser or can also be done in Node.JS, a run-time environment for running Javascript outside of browser using V8 engine of browsers done by Ryan Dahl.
+
