@@ -1,0 +1,3 @@
+In this lecture we did a practice set of everything we have learnt till now.
+
+Refer to code file for questions and answers.

@@ -1,0 +1,8 @@
+In this lecture we learned about non-primitive datatypes and primitive datatypes, why we need them, what are the differences and similarities between them and how to implement them.
+
+js has 3 non primitive datatypes.
+1. Arrays
+2. Objects
+3. functions
+
+And refer to code file to see all primitive and non primitive datatypes

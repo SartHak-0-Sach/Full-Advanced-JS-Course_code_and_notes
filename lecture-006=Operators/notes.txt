@@ -1,0 +1,1 @@
+Today's lecture is going to be about operators and expressions and in this lecture we will be learning what they are, why they are needed and how to implement them which is mentioned in the adjacent code file.

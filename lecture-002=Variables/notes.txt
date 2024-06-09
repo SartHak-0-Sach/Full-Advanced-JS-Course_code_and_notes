@@ -1,0 +1,3 @@
+This lecture was all about variables, why are they used, how to implement them and the rules of declaring and naming a variable.
+
+Also we learnt basics of datatypes in JavaScript that we will learn more about in upcoming lectures.

@@ -1,0 +1,3 @@
+In this lecture we learned more about what are datatypes, how are they associated to variable declaration, what are their types and why are they useful to us.
+
+In this lecture we also learnt about strict mode and why it is required.
